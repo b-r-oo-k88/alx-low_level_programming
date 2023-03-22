@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * print_sign - check the spell
- * @c: the character to be checkes
+ * @n: the character to be checkes
  * Return: 1 or 0 or -1
  */
 int print_sign(int n)
