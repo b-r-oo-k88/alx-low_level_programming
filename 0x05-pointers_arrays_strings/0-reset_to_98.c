@@ -1,11 +1,10 @@
 #include "main.h"
 /**
  * reset_to_98 - entry open
- * @a: variable
- * @b: variable
- * Return: 0
+ * @n: variable
+ * Return: n
  */
-void reset_to_98(int *a, int *b)
+void reset_to_98(int *n)
 {
 	*n = 98;
 }
